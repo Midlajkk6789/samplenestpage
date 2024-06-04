@@ -1,0 +1,17 @@
+#bg-vedio {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+
+.contentbody {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+    color: rgb(235, 33, 33);
+}
